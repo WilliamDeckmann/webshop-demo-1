@@ -1,0 +1,84 @@
+.Contact {
+    height: calc(100vh - 87px - 100px);
+    margin-bottom: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 1px solid black;
+    background-color: white;
+
+    &__header {
+        width: 100%;
+        padding: 25px;
+        border-bottom: 1px solid black;
+    };
+
+    &__title {
+        font-size: 4.5em;
+    };
+
+    &__main{
+        height: 100%;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+    };
+    
+    &__form {
+        width: 680px;
+        padding: 50px;
+        display: flex;
+        flex-direction: column;
+        gap: 25px
+    };
+
+    &__section {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+    };
+
+    &__label {
+        font-size: 2em;
+        font-weight: bold;
+    };
+
+    &__input, &__message {
+        font-size: 2em;
+        padding: 4px 8px 4px 8px;
+        border: 1px solid black;
+
+        &:focus {
+            outline: none;
+        };
+    };
+
+    &__message {
+        max-width: 580px;
+        max-height: calc(33px + 29px + 29px + 29px + 29px);
+        height: 100%;
+        resize: none;
+    };
+
+    &__button {
+        width: 200px;
+        padding: 16px 22px 16px 22px;
+        font-size: 3em;
+        font-weight: bold;
+        background-color: #ebdc37;
+
+        &:hover {
+            color: white;
+            background-color: #3757c8;
+        };
+
+        &:focus {
+            outline: none;
+        };
+    };
+
+    &__footer {
+        padding: 25px;
+    };
+};

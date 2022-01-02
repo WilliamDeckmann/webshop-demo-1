@@ -1,0 +1,21 @@
+[
+    {
+        "title": "Home",
+        "url": "#Home-anchor"
+    },
+
+    {
+        "title": "Shop",
+        "url": "#Shop-anchor"
+    },
+
+    {
+        "title": "About",
+        "url": "#About-anchor"
+    },
+
+    {
+        "title": "Contact",
+        "url": "#Contact-anchor"
+    }
+]

@@ -1,0 +1,193 @@
+[
+    {
+        "id": "1",
+        "url": "#",
+        "name": "Product",
+        "description": "Lorem ipsum dolor sit amet, consectetur.",
+        "img": "../Assets/product-image.png",
+        "onSale": false,
+        "soldOut": false,
+        "primaryPrice": "949,-",
+        "onSalePrice": "749,-",
+        "soldOutPrice": "Sold Out",
+        "primaryColor": "#df4b4b",
+        "onSaleColor": "#ebdc37",
+        "soldOutColor": "#00865d"
+    },
+
+    {
+        "id": "2",
+        "url": "#",
+        "name": "Product",
+        "description": "Lorem ipsum dolor sit amet, consectetur.",
+        "img": "../Assets/product-image.png",
+        "onSale": false,
+        "soldOut": false,
+        "primaryPrice": "949,-",
+        "onSalePrice": "749,-",
+        "soldOutPrice": "Sold Out",
+        "primaryColor": "#df4b4b",
+        "onSaleColor": "#ebdc37",
+        "soldOutColor": "#00865d"
+    },
+
+    {
+        "id": "3",
+        "url": "#",
+        "name": "Product",
+        "description": "Lorem ipsum dolor sit amet, consectetur.",
+        "img": "../Assets/product-image.png",
+        "onSale": true,
+        "soldOut": false,
+        "primaryPrice": "949,-",
+        "onSalePrice": "749,-",
+        "soldOutPrice": "Sold Out",
+        "primaryColor": "#df4b4b",
+        "onSaleColor": "#ebdc37",
+        "soldOutColor": "#00865d"
+    },
+
+    {
+        "id": "4",
+        "url": "#",
+        "name": "Product",
+        "description": "Lorem ipsum dolor sit amet, consectetur.",
+        "img": "../Assets/product-image.png",
+        "onSale": false,
+        "soldOut": true,
+        "primaryPrice": "949,-",
+        "onSalePrice": "749,-",
+        "soldOutPrice": "Sold Out",
+        "primaryColor": "#df4b4b",
+        "onSaleColor": "#ebdc37",
+        "soldOutColor": "#00865d"
+    },
+
+    {
+        "id": "5",
+        "url": "#",
+        "name": "Product",
+        "description": "Lorem ipsum dolor sit amet, consectetur.",
+        "img": "../Assets/product-image.png",
+        "onSale": false,
+        "soldOut": false,
+        "primaryPrice": "949,-",
+        "onSalePrice": "749,-",
+        "soldOutPrice": "Sold Out",
+        "primaryColor": "#df4b4b",
+        "onSaleColor": "#ebdc37",
+        "soldOutColor": "#00865d"
+    },
+
+    {
+        "id": "6",
+        "url": "#",
+        "name": "Product",
+        "description": "Lorem ipsum dolor sit amet, consectetur.",
+        "img": "../Assets/product-image.png",
+        "onSale": false,
+        "soldOut": false,
+        "primaryPrice": "949,-",
+        "onSalePrice": "749,-",
+        "soldOutPrice": "Sold Out",
+        "primaryColor": "#df4b4b",
+        "onSaleColor": "#ebdc37",
+        "soldOutColor": "#00865d"
+    },
+
+    {
+        "id": "7",
+        "url": "#",
+        "name": "Product",
+        "description": "Lorem ipsum dolor sit amet, consectetur.",
+        "img": "../Assets/product-image.png",
+        "onSale": false,
+        "soldOut": false,
+        "primaryPrice": "949,-",
+        "onSalePrice": "749,-",
+        "soldOutPrice": "Sold Out",
+        "primaryColor": "#df4b4b",
+        "onSaleColor": "#ebdc37",
+        "soldOutColor": "#00865d"
+    },
+
+    {
+        "id": "8",
+        "url": "#",
+        "name": "Product",
+        "description": "Lorem ipsum dolor sit amet, consectetur.",
+        "img": "../Assets/product-image.png",
+        "onSale": true,
+        "soldOut": false,
+        "primaryPrice": "949,-",
+        "onSalePrice": "749,-",
+        "soldOutPrice": "Sold Out",
+        "primaryColor": "#df4b4b",
+        "onSaleColor": "#ebdc37",
+        "soldOutColor": "#00865d"
+    },
+
+    {
+        "id": "9",
+        "url": "#",
+        "name": "Product",
+        "description": "Lorem ipsum dolor sit amet, consectetur.",
+        "img": "../Assets/product-image.png",
+        "onSale": false,
+        "soldOut": false,
+        "primaryPrice": "949,-",
+        "onSalePrice": "749,-",
+        "soldOutPrice": "Sold Out",
+        "primaryColor": "#df4b4b",
+        "onSaleColor": "#ebdc37",
+        "soldOutColor": "#00865d"
+    },
+
+    {
+        "id": "10",
+        "url": "#",
+        "name": "Product",
+        "description": "Lorem ipsum dolor sit amet, consectetur.",
+        "img": "../Assets/product-image.png",
+        "onSale": false,
+        "soldOut": false,
+        "primaryPrice": "949,-",
+        "onSalePrice": "749,-",
+        "soldOutPrice": "Sold Out",
+        "primaryColor": "#df4b4b",
+        "onSaleColor": "#ebdc37",
+        "soldOutColor": "#00865d"
+    },
+
+    {
+        "id": "11",
+        "url": "#",
+        "name": "Product",
+        "description": "Lorem ipsum dolor sit amet, consectetur.",
+        "img": "../Assets/product-image.png",
+        "onSale": false,
+        "soldOut": true,
+        "primaryPrice": "949,-",
+        "onSalePrice": "749,-",
+        "soldOutPrice": "Sold Out",
+        "primaryColor": "#df4b4b",
+        "onSaleColor": "#ebdc37",
+        "soldOutColor": "#00865d"
+    },
+
+    {
+        "id": "12",
+        "url": "#",
+        "name": "Product",
+        "description": "Lorem ipsum dolor sit amet, consectetur.",
+        "img": "../Assets/product-image.png",
+        "onSale": false,
+        "soldOut": true,
+        "primaryPrice": "949,-",
+        "onSalePrice": "749,-",
+        "soldOutPrice": "Sold Out",
+        "primaryColor": "#df4b4b",
+        "onSaleColor": "#ebdc37",
+        "soldOutColor": "#00865d"
+    }
+]

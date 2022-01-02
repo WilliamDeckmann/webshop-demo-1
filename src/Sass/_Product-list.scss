@@ -1,0 +1,32 @@
+.Product-list {
+    display: flex;
+    max-height: calc(100vh - 133px - 100px); // Minus the header, search-bar & the flex-gap
+    overflow: auto;
+    padding: 40px 50px 50px 40px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 50px;
+    border: 1px solid black;
+    border-top: none;
+
+    &::-webkit-scrollbar{
+        width: 43px;
+        height: 100%;
+    };
+    
+    &::-webkit-scrollbar-thumb{
+        background: #b4b4b4;
+        border: 1px solid black;
+        border-right: none;
+        border-radius: 0px;
+    };
+    
+    &::-webkit-scrollbar-thumb:hover{
+        background: #9c9c9c;
+    };
+    
+    &::-webkit-scrollbar-track{
+        border-left: 1px solid black;
+    };
+};
+

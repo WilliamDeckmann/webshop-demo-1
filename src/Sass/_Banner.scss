@@ -1,0 +1,23 @@
+.Banner {
+    display: flex;
+    justify-content: center;
+    border: 1px solid black;
+    background-color: white;
+
+    &__header {
+        width: auto;
+        padding: 20px;
+        border-left: 1px solid black;
+        border-right: 1px solid black;
+    };
+
+    &__title {
+        font-size: 6em;
+    };
+
+    &__divider {
+        width: 100%;
+        height: 8px;
+        background-color: #df4b4b;
+    }
+};
