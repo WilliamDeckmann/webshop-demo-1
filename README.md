@@ -8,4 +8,4 @@ Formål: At skabe et potentielt design til en webshop
 ## Link til GitHub pages
 #### (Virker bedst på mobil)
 
-- https://williamdeckmann.github.io/newsbox-praktikopgave/
+- https://williamdeckmann.github.io/webshop-demo-1/
