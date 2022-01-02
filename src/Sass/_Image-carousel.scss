@@ -60,3 +60,13 @@
         transition: opacity .1s ease;
     };
 };
+
+
+
+@media (max-width: 768px) {
+    .Image-carousel {
+        &__link {
+            height: calc(100vh - 211px - 100px - 88px);
+        };
+    };
+};

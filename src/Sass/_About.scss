@@ -22,6 +22,7 @@
         justify-content: space-between;
         border: 1px solid black;
         border-left: none; 
+        overflow: auto;
 
         &:first-child {
             border-left: 1px solid black;
@@ -33,6 +34,7 @@
         display: flex;
         flex-direction: column;
         gap: 10px;
+        
     };
 
     &__title {
@@ -68,6 +70,18 @@
         &:hover {
             color: white;
             background-color: #3757c8;
+        };
+    };
+};
+
+
+
+@media (max-width: 768px) {
+    .About {
+        &__section {
+
+            max-height: calc(100vh - 195px - 88px - 88px);
+            grid-template-columns: 1fr;
         };
     };
 };

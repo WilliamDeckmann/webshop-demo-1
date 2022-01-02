@@ -2,3 +2,10 @@
     position: relative;
     top: calc(-50px - 88px);
 };
+
+@media (max-width: 768px) {
+    .Anchor {
+        position: relative;
+        top: calc(-50px - 88px - 88px);
+    };
+};

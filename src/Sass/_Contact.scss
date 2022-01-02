@@ -1,5 +1,5 @@
 .Contact {
-    height: calc(100vh - 87px - 100px);
+    height: calc(100vh - 100px - 88px);
     margin-bottom: 50px;
     display: flex;
     flex-direction: column;
@@ -80,5 +80,14 @@
 
     &__footer {
         padding: 25px;
+    };
+};
+
+
+
+@media (max-width: 768px) {
+    .Contact {
+        height: calc(100vh - 100px - 88px - 88px);
+        grid-template-columns: 1fr;
     };
 };

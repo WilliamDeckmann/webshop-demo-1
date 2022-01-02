@@ -38,3 +38,9 @@
         };
     };
 };
+
+@media (max-width: 768px) {
+    .Search-bar {
+        top: calc(87px + 88px);
+    };
+};

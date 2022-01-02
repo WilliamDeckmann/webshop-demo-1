@@ -30,3 +30,19 @@
     };
 };
 
+
+
+@media (max-width: 1024px) {
+    .Product-list {
+        grid-template-columns: repeat(2, 1fr);
+    };
+};
+
+
+
+@media (max-width: 768px) {
+    .Product-list {
+        max-height: calc(100vh - 133px - 100px - 88px);
+        grid-template-columns: 1fr;
+    };
+};

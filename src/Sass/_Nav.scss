@@ -16,12 +16,6 @@
         &:first-child {
             border-left: 1px solid black;
         };
-
-        &:nth-child(2) {
-            .Nav__link {
-                color: #3757c8;
-            }
-        };
     };
 
     &__link {
@@ -36,5 +30,16 @@
             background-color: #3757c8;
             color: white !important;
         }
+    };
+};
+
+
+
+@media (max-width: 768px) {
+    .Nav {
+        &__list {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+        };
     };
 };
