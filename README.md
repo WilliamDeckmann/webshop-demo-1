@@ -6,6 +6,6 @@ Formål: At skabe et potentielt design til en webshop
 
 
 ## Link til GitHub pages
-#### (Virker bedst på mobil)
+#### (Virker bedst på desktop)
 
 - https://williamdeckmann.github.io/webshop-demo-1/
