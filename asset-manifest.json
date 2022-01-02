@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/webshop-demo-1/static/css/main.879c01bf.chunk.css",
+    "main.js": "/webshop-demo-1/static/js/main.b0bff6e8.chunk.js",
+    "main.js.map": "/webshop-demo-1/static/js/main.b0bff6e8.chunk.js.map",
+    "runtime-main.js": "/webshop-demo-1/static/js/runtime-main.deeb0470.js",
+    "runtime-main.js.map": "/webshop-demo-1/static/js/runtime-main.deeb0470.js.map",
+    "static/js/2.e7550ab2.chunk.js": "/webshop-demo-1/static/js/2.e7550ab2.chunk.js",
+    "static/js/2.e7550ab2.chunk.js.map": "/webshop-demo-1/static/js/2.e7550ab2.chunk.js.map",
+    "index.html": "/webshop-demo-1/index.html",
+    "static/css/main.879c01bf.chunk.css.map": "/webshop-demo-1/static/css/main.879c01bf.chunk.css.map",
+    "static/js/2.e7550ab2.chunk.js.LICENSE.txt": "/webshop-demo-1/static/js/2.e7550ab2.chunk.js.LICENSE.txt",
+    "static/media/product-image.5b4ebced.png": "/webshop-demo-1/static/media/product-image.5b4ebced.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.deeb0470.js",
+    "static/js/2.e7550ab2.chunk.js",
+    "static/css/main.879c01bf.chunk.css",
+    "static/js/main.b0bff6e8.chunk.js"
+  ]
+}
