@@ -1,2 +1,11 @@
 # Webshop demo: 1
-## The purpose of this wabsite is to demonstrate a potentiel webshop design.
+
+lavet af: William Deckmann
+
+Formål: At skabe et potentielt design til en webshop
+
+
+## Link til GitHub pages
+#### (Virker bedst på mobil)
+
+- https://williamdeckmann.github.io/newsbox-praktikopgave/
